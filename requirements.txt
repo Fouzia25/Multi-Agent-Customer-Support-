@@ -1,0 +1,3 @@
+crewai==1.15.30
+crewai-tools==1.15.30
+streamlit==1.66.1
